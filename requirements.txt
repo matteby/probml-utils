@@ -7,7 +7,7 @@ matplotlib
 scikit-learn
 scipy
 graphviz
-distrax>=0.1.5
+distrax
 umap-learn
 pandas
 TexSoup
